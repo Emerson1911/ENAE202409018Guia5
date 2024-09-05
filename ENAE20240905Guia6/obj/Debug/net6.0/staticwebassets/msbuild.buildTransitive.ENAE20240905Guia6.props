@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ENAE20240905Guia6.props" />
+</Project>

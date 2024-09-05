@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\endpoints\\productendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\endpoints\\productendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\models\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\models\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\models\\dal\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\models\\dal\\crmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\models\\dal\\scriptdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\models\\dal\\scriptdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|c:\\users\\emers\\desktop\\tareas de api\\enae20240905guia6\\enae20240905guia6\\models\\dal\\scriptdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{9DEAAE6E-983B-4B83-9256-ADA44029FBE4}|ENAE20240905Guia6\\ENAE20240905Guia6.csproj|solutionrelative:enae20240905guia6\\models\\dal\\scriptdb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CRMContext.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Models\\DAL\\CRMContext.cs",
+              "RelativeDocumentMoniker": "ENAE20240905Guia6\\Models\\DAL\\CRMContext.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Models\\DAL\\CRMContext.cs",
+              "RelativeToolTip": "ENAE20240905Guia6\\Models\\DAL\\CRMContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:21:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScriptDB.sql ",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Models\\DAL\\ScriptDB.sql",
+              "RelativeDocumentMoniker": "ENAE20240905Guia6\\Models\\DAL\\ScriptDB.sql",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Models\\DAL\\ScriptDB.sql",
+              "RelativeToolTip": "ENAE20240905Guia6\\Models\\DAL\\ScriptDB.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-05T16:51:33.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Models\\DAL\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "ENAE20240905Guia6\\Models\\DAL\\ProductDAL.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Models\\DAL\\ProductDAL.cs",
+              "RelativeToolTip": "ENAE20240905Guia6\\Models\\DAL\\ProductDAL.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:12:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\appsettings.json",
+              "RelativeDocumentMoniker": "ENAE20240905Guia6\\appsettings.json",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\appsettings.json",
+              "RelativeToolTip": "ENAE20240905Guia6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T17:07:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Program.cs",
+              "RelativeDocumentMoniker": "ENAE20240905Guia6\\Program.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Program.cs",
+              "RelativeToolTip": "ENAE20240905Guia6\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T17:05:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Endpoints\\ProductEndpoint.cs",
+              "RelativeDocumentMoniker": "ENAE20240905Guia6\\Endpoints\\ProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\emers\\Desktop\\Tareas de Api\\ENAE20240905Guia6\\ENAE20240905Guia6\\Endpoints\\ProductEndpoint.cs",
+              "RelativeToolTip": "ENAE20240905Guia6\\Endpoints\\ProductEndpoint.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:28:12.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

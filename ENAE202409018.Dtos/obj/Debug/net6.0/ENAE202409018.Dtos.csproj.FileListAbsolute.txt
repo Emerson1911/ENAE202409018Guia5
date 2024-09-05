@@ -1,0 +1,12 @@
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\bin\Debug\net6.0\ENAE202409018.Dtos.deps.json
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\bin\Debug\net6.0\ENAE202409018.Dtos.dll
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\bin\Debug\net6.0\ENAE202409018.Dtos.pdb
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.AssemblyInfoInputs.cache
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.AssemblyInfo.cs
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.sourcelink.json
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.dll
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\refint\ENAE202409018.Dtos.dll
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ENAE202409018.Dtos.pdb
+C:\Users\emers\Desktop\Tareas de Api\ENAE20240905Guia6\ENAE202409018.Dtos\obj\Debug\net6.0\ref\ENAE202409018.Dtos.dll

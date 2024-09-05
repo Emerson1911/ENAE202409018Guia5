@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ENAE202409018.Dtos/1.0.0": {
+        "runtime": {
+          "ENAE202409018.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ENAE202409018.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
