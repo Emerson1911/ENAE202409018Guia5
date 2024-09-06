@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ENAE202409018NET.props" />
+</Project>

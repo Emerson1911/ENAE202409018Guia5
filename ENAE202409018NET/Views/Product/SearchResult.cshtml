@@ -1,0 +1,54 @@
+﻿@model IEnumerable<ENAE202409018.Dtos.ProductDTOs.SearchResultProductDTO.ProductDTOs>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreENAE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DescripcionENAE)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioENAE)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreENAE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DescripcionENAE)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PrecioENAE)
+                </td>
+                <td>
+                    @Html.ActionLink("Modificar", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Ver", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

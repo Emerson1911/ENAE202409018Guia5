@@ -14,8 +14,7 @@ namespace ENAE202409018.Dtos.ProductDTOs
         [MaxLength(50,ErrorMessage ="El campo no puede contener mas de 50 caracteres...")]
         public string NombreENAE {  get; set; }
 
-        [Display(Name = "Nombre")]
-        //[Required(ErrorMessage = "El campo Nombre es obligatorio")]
+        [Display(Name = "Descripcion")]
         [MaxLength(50, ErrorMessage = "El campo no puede contener mas de 50 caracteres...")]
         public string DescripcionENAE { get; set; }
 
